@@ -27,10 +27,8 @@ function zipListTheSimpleWay(){
 */
 
 //  Second attempt
-/*
 
 /*
-
 const testList1 = ['a', 'b', 'c'];
 const testList2 = [1, 2, 3];
 
@@ -49,8 +47,9 @@ function zipListTheSimpleWay(list1, list2) {
 }
 
 console.log(zipListTheSimpleWay(testList1, testList2));
-
 */
+
+//  Third Attempt
 
 const testList1 = ['a', 'b', 'c'];
 const testList2 = [1, 2, 3];
