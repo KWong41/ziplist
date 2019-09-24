@@ -2,7 +2,7 @@
 //  pWOD 2:Coding Standards
 //  First Attempt:25 mins (DNF)
 //  Second Attempt (watching Dr. Johnson's video for support):  22:10:27 (completed)
-//
+//  Third Attempt (using the supported code):  11:25:38 (completed)
 //
 //
 //
@@ -49,7 +49,7 @@ function zipListTheSimpleWay(list1, list2) {
 console.log(zipListTheSimpleWay(testList1, testList2));
 */
 
-//  Third Attempt
+//  Third Attempt:  11:25:38
 
 const testList1 = ['a', 'b', 'c'];
 const testList2 = [1, 2, 3];
